@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Student> 
+  <stu> 
+    <number>201327040139</number>  
+    <name>郭朝阳</name>  
+    <age>23</age> 
+  </stu> 
+    <stu> 
+    <number>201327040140</number>  
+    <name>郭朝阳</name>  
+    <age>23</age> 
+  </stu> 
+    <stu> 
+    <number>20132704011</number>  
+    <name>郭朝阳</name>  
+    <age>23</age> 
+  </stu> 
+    <stu> 
+    <number>201327040132</number>  
+    <name>郭朝阳</name>  
+    <age>23</age> 
+  </stu> 
+</Student>
