@@ -9,6 +9,6 @@ public class Student_Manege {
 //		student.add("201327040139", "¹ù³¯Ñô", 21);
 //		student.kill("201327040108");
 //		student.reWrite("201327040139", "¹ù³¯Ñô", 23);
-		student.checkStudents("¹ù³¯Ñô");
+		student.checkStudents("¹ù");
 	}
 }
